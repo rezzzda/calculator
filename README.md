@@ -1,1 +1,1 @@
-This is Cotlin Calculator.
+This is Kotlin Calculator.
